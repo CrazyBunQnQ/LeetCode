@@ -1,4 +1,4 @@
-package com.crazybunqnq.solutions;
+package com.crazybunqnq.easy;
 
 import java.util.HashSet;
 import java.util.Set;

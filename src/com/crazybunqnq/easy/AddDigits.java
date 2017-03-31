@@ -1,4 +1,4 @@
-package com.crazybunqnq.solutions;
+package com.crazybunqnq.easy;
 
 /**
  * Given a non-negative integer num, repeatedly add all its digits until the

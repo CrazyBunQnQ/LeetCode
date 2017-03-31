@@ -1,4 +1,4 @@
-package com.crazybunqnq.solutions;
+package com.crazybunqnq.easy;
 
 /**
  * You are given a map in form of a two-dimensional integer grid where 1

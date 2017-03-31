@@ -1,4 +1,4 @@
-package com.crazybunqnq.solutions;
+package com.crazybunqnq.easy;
 
 /**
  * Given an array of integers, every element appears twice except for one. Find
