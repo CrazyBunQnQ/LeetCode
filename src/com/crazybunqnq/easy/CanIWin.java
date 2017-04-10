@@ -1,4 +1,4 @@
-package com.crazybun.exercise;
+package com.crazybunqnq.easy;
 
 import java.util.ArrayList;
 import java.util.List;

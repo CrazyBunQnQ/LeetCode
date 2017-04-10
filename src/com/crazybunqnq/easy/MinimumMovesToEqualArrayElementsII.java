@@ -1,4 +1,4 @@
-package com.crazybun.exercise;
+package com.crazybunqnq.easy;
 
 public class MinimumMovesToEqualArrayElementsII {
 	/*
