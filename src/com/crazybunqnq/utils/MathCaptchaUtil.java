@@ -1,9 +1,12 @@
 package com.crazybunqnq.utils;
 
 import java.awt.Canvas;
+import java.awt.Color;
 import java.awt.Paint;
 import java.awt.image.BufferedImage;
 import java.util.Random;
+
+import sun.rmi.runtime.Log;
 
 public class MathCaptchaUtil {
 	int result;
